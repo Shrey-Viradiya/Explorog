@@ -1,0 +1,9 @@
+runtime: python37
+
+instance_class: F2
+
+env_variables:
+  EMAIL_PASS: "lumos@google"
+  EMAIL_USER: "luminousman3@gmail.com"
+  SQLALCHEMY_DATABASE_URI: "sqlite:///site.db"
+  SECRET_KEY: "e8c5e26b77dfc43930a98b0d00dce910337dcf178b2d35380e8dfbbcce777b30"
